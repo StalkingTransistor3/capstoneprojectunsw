@@ -1,0 +1,132 @@
+------------------------------------------------------------------------------------------
+Week 1
+------------------------------------------------------------------------------------------
+Week 1 Wednesday
+- Group formed with me Jovita Chong (me), Masum Khan, Wonseok Kim and Andrew Suryanto
+- Named our group 3900W16ANinjaTurtles - Spyce System
+- We selected the Wait Management System as our topic.
+- We chose Masum Khan as our Scrum Master.
+- Registered our group on Moodle and created the Jira Site.
+
+Week 1 Thursday
+- Had our first meeting online
+- We have a new member Trong Nguyen
+- We decided to use Python for the backend, JavaScript for the frontend
+- I made an outline for our report as per the assignment guidelines
+------------------------------------------------------------------------------------------
+Week 2
+------------------------------------------------------------------------------------------
+Week 2 Monday
+- Had our second meeting online
+- We reassigned tasks
+- Still deciding on the available software tools & libraries that we can use,
+  but this is what we decided to use:
+    - Python for our backend
+    - JavaScript for our frontend
+    - FastAPI as our API
+- Masum changed the proposal report outline
+- Decided dates for the sprints
+- We brainstormed some ideas for the user stories and then put them on Jira categorising
+  them based on sprints
+
+Week 2 Wednesday
+- Made user stories for kitchen staffs and managers
+- I updated the proposal report outline to follow the assignment guidelines
+- Finished deciding our novel functions and user stories
+------------------------------------------------------------------------------------------
+Week 3
+------------------------------------------------------------------------------------------
+Week 3 Monday
+- Had our meeting online
+- Decided to use balsamiq to do our storyboard
+- I started working on the kitchen staff and manager storyboard
+- Brainstormed ideas for the tech stack together
+
+Week 3 Tuesday
+- I finished the kitchen staff and manager storyboard
+- Brainstormed ideas for the tech stack together
+
+Week 3 Wednesday
+- Asked for feedbacks from our tutor regarding our user stories, novel functions
+  and storyboard
+
+Week 3 Friday
+- Masum submitted the proposal report
+------------------------------------------------------------------------------------------
+Week 4
+------------------------------------------------------------------------------------------
+Week 4 Wednesday
+- Asked for feedbacks on the proposal report on what could be improved
+- Discussed our APIs and database schema together
+- Allocated parts
+
+Week 4 Saturday
+- Was assigned tasks:
+    - [Frontend->Backend] POST order data from user input (frontend) to the backend.
+    - [Backend->database] Make  a POST request from backend to MongoDB to store the
+      order object
+------------------------------------------------------------------------------------------
+Week 5
+------------------------------------------------------------------------------------------
+Week 5 Monday
+- Set up backend routes for the orders
+- Had an online meeting today to update what we're working on
+
+Week 5 Tuesday
+- Had another online meeting and I updated Tommy on what I've been up to
+
+Week 5 Wednesday
+Had our Progressive Demo A today.
+
+Week 5 Friday
+Modified our Retrospective A report.
+------------------------------------------------------------------------------------------
+Week 6
+------------------------------------------------------------------------------------------
+Week 6 Tuesday
+- Had a discord meeting to distribute work
+------------------------------------------------------------------------------------------
+Week 7
+------------------------------------------------------------------------------------------
+Week 7 Monday
+- Had a discord meeting to update each other
+
+Week 7 Wednesday
+- Met everyone
+
+Week 7 Thursday
+- Made more routes for backend and frontend
+- Made the frontend skeleton for waitstaff
+- Made the waitstaff dashboard and oter pages related to the waitstaff
+------------------------------------------------------------------------------------------
+Week 8
+------------------------------------------------------------------------------------------
+Week 8 Tuesday
+- Had a meeting to fix stuffs before tomorrow's demo
+
+Week 8 Wednesday
+- Had our Progressive Demo B today.
+
+Week 8 Friday
+- Updated our Retrospective B report.
+------------------------------------------------------------------------------------------
+Week 9
+------------------------------------------------------------------------------------------
+Week 9 Wednesday
+- Met everyone and talked about what to improved on
+
+Week 9 Sunday
+- Merged everyone's branch together
+------------------------------------------------------------------------------------------
+Week 10
+------------------------------------------------------------------------------------------
+Week 10 Monday
+- Made my waitstaff responsive and updated css and background colour
+- More media queries fixing
+
+Week 10 Tuesday
+- Final meeting before presentation
+
+Week 10 Wednesday
+- Final Demo
+------------------------------------------------------------------------------------------

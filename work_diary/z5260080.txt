@@ -1,0 +1,135 @@
+Week 1
+May 31st Wednesday
+- Formed a group of 4 named NinjaTurtles.
+- Discussed what topic we were going to persue for our project and decided to create a wait management web application.
+- Created Jira Site and selected scrum master (Masum Khan).
+- Shared our discord names and created a discord server for online communication.
+
+June 1st Thursday
+- Another team member joined NinjaTurtles.
+- Had an online meeting on discord, discussed layouts for project proposal.
+- Splitted workload for the project proposal between team members.
+
+
+Week 2
+June 5th Monday
+- Had an online meeting on discord.
+- Reviewed Andrew's project introduction.
+- Created user stories for restaurant customers, wait staffs, kitchen staffs and managers.
+- Listed user stories on Jira and allocated them in sprints (sprint 1, 2 and 3).
+- Allocated due dates for each sprints.
+- Rearranged workload for the project proposal between team members.
+
+June 8th Wednesday
+- Met everyone in tutoring.
+- Came up with 12 objectives and allocated user stories to the objectives.
+
+
+Week 3
+June 12th Monday
+- Work in progress for customer and wait staff storyboard.
+- Had an online meeting on discord.
+- Reviewed progress on creating Jira sprints and backlogs.
+- Reviewed decisions for the technology stack (MongoDB Express.js React Nodejs).
+
+June 13th Tuesday
+- Work in progress for customer and wait staff storyboard.
+- Checked on manager and kitchen staff storyboard.
+
+June 14th Wednesday
+- Met everyone in tutoring.
+- Consulted with tutor about our proposal paper.
+- Added additionally required user stories to Jira.
+- Refined customer storyboards.
+- Added related user story tags to storyboards.
+
+June 15th Thursday
+- Added references to the proposal.
+- Cleaned up user story tags for storyboards.
+
+June 16th Friday
+- Submitted the proposal.
+
+
+Week 4
+June 21st Wednesday
+- Met everyone in tutoring.
+- Received some feedbacks for our proposal submitted last week.
+- Defined our database schema for our MongoDB database.
+- Defined some of our APIs for the backend.
+
+June 24th Saturday
+- Had a short online meeting on discord.
+- Decided short term goal that's due on Monday.
+- Splitted backend team workload.
+
+June 25th Sunday
+- Created staff authentication and authorisation backend routes.
+
+
+Week 5
+June 26th Monday
+- Had online meeting and shared our progress on staff auth and menu searching system.
+
+June 27th Tuesday
+- Connected login and register code for the frontend and backend.
+- Experimented with OTP authentication.
+
+June 28th Wednesday
+- Had a progressive demo at tutoring.
+
+June 30th Friday
+- We had a retroactive meeting to write our retroactive A report.
+
+
+Week 6
+July 4th Tuesday
+- Had a short meeting online.
+- Merged our branches to main and distributed workload on Jira.
+
+
+Week 7
+July 10th Monday
+- Had a short meeting online updating each other's progress.
+
+July 13th Thursday
+- Created dashboard for table management system.
+- Researching on how to generate QR code for each tables and make it available to download.
+
+July 15th Saturday
+- Created a functionality that let managers download QR code for a specific table.
+
+
+Week 8
+July 18th Tuesday
+- Had online meeting showing what everyone was up to.
+- Implemented dynamically updating table management system.
+- (It's just polling for new data every 5 seconds . . .)
+
+July 19th Wednesday
+- Tried to merge everyone's work into one branch before progressive demo B.
+- Had Progressive Demo B.
+
+
+Week 9
+July 25th Tuesday
+- Implemented email verification system for new accounts.
+
+July 29th Saturday
+- Implemented restaurant map viewer and editor ui.
+
+July 30th Sunday
+- Implemented restaurant map editor functionality.
+- Implemented customer restaurant map so that customers can also see available tables.
+- Had group meeting, merged everyone's work into main branch.
+- Merging was successful with minimal merge conflicts.
+
+
+Week 10
+July 1st Tuesday
+- Had an online meeting to create dot points for what to say in our final demonstration.
+- During the meeting, we also had a last minute tweak of our code. 
+
+July 2nd Wednesday
+- Met everyone an hour before tutorial session to prepare for the final demonstration.
+- We had our final demonstration of our project.

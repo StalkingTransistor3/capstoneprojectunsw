@@ -1,0 +1,154 @@
+[
+  {
+    "_id": {
+      "$oid": "64c908487ce03ca61872dfae"
+    },
+    "tableNo": 1,
+    "seats": 2,
+    "inMap": true,
+    "__v": 0,
+    "height": 160,
+    "width": 128,
+    "x": 512,
+    "y": 64
+  },
+  {
+    "_id": {
+      "$oid": "64c909f97ce03ca61872dfcd"
+    },
+    "tableNo": 2,
+    "seats": 2,
+    "inMap": true,
+    "__v": 0,
+    "height": 160,
+    "width": 128,
+    "x": 720,
+    "y": 64
+  },
+  {
+    "_id": {
+      "$oid": "64c909fd7ce03ca61872dfd1"
+    },
+    "tableNo": 3,
+    "seats": 2,
+    "inMap": true,
+    "__v": 0,
+    "height": 160,
+    "width": 128,
+    "x": 928,
+    "y": 64
+  },
+  {
+    "_id": {
+      "$oid": "64c90a007ce03ca61872dfd5"
+    },
+    "tableNo": 4,
+    "seats": 2,
+    "inMap": true,
+    "__v": 0,
+    "height": 160,
+    "width": 128,
+    "x": 1136,
+    "y": 64
+  },
+  {
+    "_id": {
+      "$oid": "64c90a037ce03ca61872dfd9"
+    },
+    "tableNo": 5,
+    "seats": 2,
+    "inMap": true,
+    "__v": 0,
+    "height": 160,
+    "width": 128,
+    "x": 512,
+    "y": 288
+  },
+  {
+    "_id": {
+      "$oid": "64c90a057ce03ca61872dfdd"
+    },
+    "tableNo": 6,
+    "seats": 2,
+    "inMap": true,
+    "__v": 0,
+    "height": 160,
+    "width": 128,
+    "x": 720,
+    "y": 288
+  },
+  {
+    "_id": {
+      "$oid": "64c90a0b7ce03ca61872dfe2"
+    },
+    "tableNo": 7,
+    "seats": 4,
+    "inMap": true,
+    "__v": 0,
+    "height": 160,
+    "width": 128,
+    "x": 928,
+    "y": 288
+  },
+  {
+    "_id": {
+      "$oid": "64c90a0f7ce03ca61872dfe6"
+    },
+    "tableNo": 8,
+    "seats": 4,
+    "inMap": true,
+    "__v": 0,
+    "height": 160,
+    "width": 128,
+    "x": 1136,
+    "y": 288
+  },
+  {
+    "_id": {
+      "$oid": "64c90a1b7ce03ca61872dfec"
+    },
+    "tableNo": 9,
+    "seats": 6,
+    "inMap": true,
+    "__v": 0,
+    "radius": 128,
+    "x": 640,
+    "y": 640
+  },
+  {
+    "_id": {
+      "$oid": "64c90a207ce03ca61872dff0"
+    },
+    "tableNo": 10,
+    "seats": 8,
+    "inMap": true,
+    "__v": 0,
+    "radius": 196,
+    "x": 256,
+    "y": 256
+  },
+  {
+    "_id": {
+      "$oid": "64c90d18a74cd256e4bdf183"
+    },
+    "tableNo": 12,
+    "seats": 6,
+    "inMap": true,
+    "__v": 0,
+    "radius": 128,
+    "x": 320,
+    "y": 640
+  },
+  {
+    "_id": {
+      "$oid": "64c90d1aa74cd256e4bdf187"
+    },
+    "tableNo": 11,
+    "seats": 6,
+    "inMap": true,
+    "__v": 0,
+    "radius": 128,
+    "x": 960,
+    "y": 640
+  }
+]

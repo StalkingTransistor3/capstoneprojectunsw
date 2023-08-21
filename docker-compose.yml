@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo
+    restart: always
+    ports:
+      - 27017:27017
+  mongo-seed:
+    build:
+      context: data
+      dockerfile: ./Dockerfile
+    depends_on:
+      - mongo
+
+  backend:
+    image: spyce/backend
+    build:
+      context: backend
+      dockerfile: ./Dockerfile
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/spyce
+
+  frontend:
+    image: spyce/frontend
+    build:
+      context: frontend
+      dockerfile: ./Dockerfile
+    ports:
+      - 3001:3001

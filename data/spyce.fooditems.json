@@ -1,0 +1,302 @@
+[
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4df2"
+    },
+    "food": "Classic Burger",
+    "ingredients": "Beef, Lettuce, Tomato, Cheese, Pickles",
+    "timesOrdered": 150,
+    "price": 8.99,
+    "category": "Mains"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4df3"
+    },
+    "food": "Cheese Fries",
+    "ingredients": "Fries, Cheese, Chives",
+    "timesOrdered": 75,
+    "price": 5.5,
+    "category": "Starters"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4df4"
+    },
+    "food": "Chicken Burger",
+    "ingredients": "Chicken, Lettuce, Tomato, Cheese, Mayonnaise",
+    "timesOrdered": 120,
+    "price": 9.5,
+    "category": "Mains"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4df5"
+    },
+    "food": "Grilled Chicken Salad",
+    "ingredients": "Grilled Chicken, Lettuce, Tomato, Cucumbers, Dressing",
+    "timesOrdered": 70,
+    "price": 7.99,
+    "category": "Starters"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4df6"
+    },
+    "food": "Vanilla Milkshake",
+    "ingredients": "Milk, Vanilla Ice Cream",
+    "timesOrdered": 80,
+    "price": 4.5,
+    "category": "Drinks"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4df7"
+    },
+    "food": "Double Decker Burger",
+    "ingredients": "Double Beef, Lettuce, Tomato, Cheese, Bacon",
+    "timesOrdered": 60,
+    "price": 12.99,
+    "category": "Mains"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4df8"
+    },
+    "food": "Veggie Burger",
+    "ingredients": "Veggie Patty, Lettuce, Tomato, Pickles, Avocado",
+    "timesOrdered": 45,
+    "price": 8.99,
+    "category": "Mains"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4df9"
+    },
+    "food": "Sweet Potato Fries",
+    "ingredients": "Sweet Potato, Salt",
+    "timesOrdered": 55,
+    "price": 5.99,
+    "category": "Starters"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4dfa"
+    },
+    "food": "Brownie Sundae",
+    "ingredients": "Brownie, Vanilla Ice Cream, Chocolate Syrup, Whipped Cream",
+    "timesOrdered": 65,
+    "price": 6.5,
+    "category": "Desserts"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4dfb"
+    },
+    "food": "Coke",
+    "ingredients": "-",
+    "timesOrdered": 200,
+    "price": 1.99,
+    "category": "Drinks"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4dfc"
+    },
+    "food": "Mozzarella Sticks",
+    "ingredients": "Mozzarella, Bread Crumbs, Marinara Sauce",
+    "timesOrdered": 80,
+    "price": 5.99,
+    "category": "Starters"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4dfd"
+    },
+    "food": "BBQ Burger",
+    "ingredients": "Beef, BBQ Sauce, Onion Rings, Cheese",
+    "timesOrdered": 85,
+    "price": 10.99,
+    "category": "Mains"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4dfe"
+    },
+    "food": "Chicken Nuggets",
+    "ingredients": "Chicken, Bread Crumbs",
+    "timesOrdered": 90,
+    "price": 6.5,
+    "category": "Starters"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4dff"
+    },
+    "food": "Fish Burger",
+    "ingredients": "Fish, Lettuce, Tomato, Tartar Sauce",
+    "timesOrdered": 40,
+    "price": 9.99,
+    "category": "Mains"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e00"
+    },
+    "food": "Strawberry Milkshake",
+    "ingredients": "Milk, Strawberry Ice Cream",
+    "timesOrdered": 70,
+    "price": 4.5,
+    "category": "Drinks"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e01"
+    },
+    "food": "Chocolate Cake",
+    "ingredients": "Chocolate, Flour, Sugar, Eggs",
+    "timesOrdered": 50,
+    "price": 5.99,
+    "category": "Desserts"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e02"
+    },
+    "food": "Bacon Cheese Burger",
+    "ingredients": "Beef, Bacon, Cheese, Lettuce, Tomato",
+    "timesOrdered": 95,
+    "price": 10.99,
+    "category": "Mains"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e03"
+    },
+    "food": "Garden Salad",
+    "ingredients": "Lettuce, Tomato, Cucumbers, Carrots, Dressing",
+    "timesOrdered": 60,
+    "price": 6.99,
+    "category": "Starters"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e04"
+    },
+    "food": "Pepsi",
+    "ingredients": "-",
+    "timesOrdered": 180,
+    "price": 1.99,
+    "category": "Drinks"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e05"
+    },
+    "food": "Chili Cheese Fries",
+    "ingredients": "Fries, Chili, Cheese",
+    "timesOrdered": 75,
+    "price": 6.5,
+    "category": "Starters"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e06"
+    },
+    "food": "Hawaiian Burger",
+    "ingredients": "Beef, Pineapple, Lettuce, Tomato, Cheese",
+    "timesOrdered": 60,
+    "price": 10.5,
+    "category": "Mains"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e07"
+    },
+    "food": "Apple Pie",
+    "ingredients": "Apples, Flour, Sugar, Cinnamon",
+    "timesOrdered": 50,
+    "price": 4.99,
+    "category": "Desserts"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e08"
+    },
+    "food": "Chicken Caesar Salad",
+    "ingredients": "Chicken, Lettuce, Parmesan, Caesar Dressing",
+    "timesOrdered": 70,
+    "price": 8.5,
+    "category": "Starters"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e09"
+    },
+    "food": "Cherry Coke",
+    "ingredients": "-",
+    "timesOrdered": 160,
+    "price": 2.5,
+    "category": "Drinks"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e0a"
+    },
+    "food": "Spicy Chicken Burger",
+    "ingredients": "Chicken, Lettuce, Tomato, Spicy Sauce",
+    "timesOrdered": 80,
+    "price": 9.99,
+    "category": "Mains"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e0b"
+    },
+    "food": "Onion Rings",
+    "ingredients": "Onion, Bread Crumbs",
+    "timesOrdered": 75,
+    "price": 5.5,
+    "category": "Starters"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e0c"
+    },
+    "food": "Banana Split",
+    "ingredients": "Banana, Vanilla Ice Cream, Strawberry Ice Cream, Chocolate Ice Cream, Whipped Cream",
+    "timesOrdered": 55,
+    "price": 6.5,
+    "category": "Desserts"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e0d"
+    },
+    "food": "Diet Coke",
+    "ingredients": "-",
+    "timesOrdered": 150,
+    "price": 1.99,
+    "category": "Drinks"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e0e"
+    },
+    "food": "Loaded Nachos",
+    "ingredients": "Tortilla Chips, Cheese, Jalapenos, Salsa, Sour Cream",
+    "timesOrdered": 85,
+    "price": 7.5,
+    "category": "Starters"
+  },
+  {
+    "_id": {
+      "$oid": "64ab3cf8f763bc32297c4e0f"
+    },
+    "food": "Turkey Burger",
+    "ingredients": "Turkey, Lettuce, Tomato, Avocado",
+    "timesOrdered": 55,
+    "price": 9.5,
+    "category": "Mains"
+  }
+]

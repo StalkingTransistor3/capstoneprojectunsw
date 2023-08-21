@@ -1,0 +1,52 @@
+Week 1
+01/06/2023:
+- Met group and joined late, team was named NinjaTurtles and working in scrum environment
+
+Week 2
+05/06/2023:
+- Online meeting
+- Reviewed project introduction
+- Worked as a team to figure out the Jira board, including initial sprint and allocations
+
+Week 3 
+12/06/2023:
+- Made progress on the customer and staff pages
+- had another meeting to discuss Jira progress
+- Reviewed tech stack
+
+Week 4
+22/06/2023:
+- Completed a skeleton frontend design for customer home page
+- Completed setting up routers for different pages in reactjs
+
+24/06/2023:
+- Completed Skeleton of ordering pages
+- Customers are able to view their final order
+- Customers are prompted to go to pay after finalising
+- Customers are able to view their current orders
+
+Week 5:
+26/06/2023:
+- Online meeting to discuss our progress
+- login and register for frontend/backend was Completed
+- had a meeting to write report A 
+
+Week 6:
+- Short meeting online for flex week, distributed work from Jira
+
+Week 7:
+- Allowed users to be able to put through orders, redesigned frontend to be less HTML and more modern
+- Rendered orders and recommendations dynmaically using test data
+- built skeleton for feedback and user editing food orders
+
+Week 8:
+- Online meeting
+- Merged work for Demo B, had all customer functionality working except for orders and feedback
+
+Week 9:
+- Finished feedback and orders functionality
+- Fully integrated with the backend and can load dynamic data
+- customer menu is kept up to date with backend
+
+Week 10:
+- Final Demo, merged everyone's code beforehand.

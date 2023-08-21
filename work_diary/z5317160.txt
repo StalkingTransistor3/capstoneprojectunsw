@@ -1,0 +1,303 @@
+**Date:** June 1, 2023
+
+**Today's Achievements:**
+
+- Developed a comprehensive project proposal template.
+- Assigned sections of the proposal to each team member based on strengths and interests.
+
+**Next Steps:**
+
+- Each team member to independently research and write their assigned sections of the proposal.
+- Next meeting set for Monday at 4 PM to review progress and discuss any issues.
+
+**Reflection:** Today's meeting was productive and efficient, with no significant challenges. Looking forward to seeing the proposal take shape.
+
+**Date:** June 2, 2023
+
+**Today's Achievements:**
+
+- Conducted some research on existing places with similar systems we would want to improve.
+- Asked for clarification from the group whether we are doing a qr-code scan menu or a tablet menu. 
+- Found relevant system for the qr-code scan menu approach [Build amazing User-First experiences across all devices (qrmenu.com)](https://qrmenu.com/restaurant-menus/)
+
+**Next Steps:**
+
+- Each team member to independently research and write their assigned sections of the proposal.
+- Next meeting set for Monday at 4 PM to review progress and discuss any issues.
+
+**Reflection:** I await teammates comment to my question. Hopefully it won't take too long :)
+
+__________________________________
+
+
+**Date:** June 4, 2023
+
+**Today's Achievements:**
+
+- Completed research and wrote a
+
+**Next Steps:**
+
+- Each team member to independently research and write their assigned sections of the proposal.
+- Next meeting set for Monday at 4 PM to review progress and discuss any issues.
+
+**Reflection:** I await teammates comment to my question. Hopefully it won't take too long :)
+
+Your stomach grumbles. You take our your phone to check the time. It's almost been half an hour since you sat down and you had your order in mind as soon as you stepped inside but no-one has come to take it.
+
+We've all been there, and in today culture of hustle and bustle, every second counts. Traditional restaurant services, such as waiting to place orders, standing in lines and dealing with potential miscommunications no longer meet the demands of modern diners. The need to revolutionize the dining experience is indisputable. To address this, we propose the development of an innovative "Wait Management System" (WMS), meticulously designed to minimize friction in the customer dining journey and reduce overhead for busy cafes and restaurants.
+
+This proposal outlines the design, implementation and functionalities of our Wait Management System, focusing on enhancing the dining experience, streamlining staff coordination and optimizing restaurant operations. With this system, customers can digitally select their table, browse the menu and place orders at their leisure and convenience, requesting the bill once satisfied. Additionally, they are also able to request waiter assistance through the system. By integrating these features, WMS aims to bring efficiency and satisfaction to every dining interaction.
+
+Simultaneously, our system provides the kitchen staff with an organized, time-sequenced list of orders, along with the ability to mark prepared orders. Waitstaff receive timely notifications when customers need assistance or when dishes are ready for service, thus eliminating guesswork and reducing service time. The system also enables restaurant managers to modify menu categories and items, enhancing their control over the customer's culinary journey.
+
+Beyond the features mentioned above, our system is designed to include at least eight distinct functionalities and incorporate two innovative features not found in existing wait management systems. These groundbreaking functionalities will address specific customer pain points and further distinguish our system in the market.
+
+Let's examine two notable but flawed systems in the current market landscape:
+
+KFC's wait system, though widely used, has several limitations. It limits payment to cards only and does not offer customers the option to reserve tables in advance for dine-in. Furthermore, it lacks a critical feature our WMS plans to incorporate: the ability for customers to request employee assistance directly through the system. This means our proposed system not only matches the existing service level but also surpasses it, delivering a more comprehensive and customer-centric experience.
+
+Another system, provided by QRmenu.com, also has shortcomings that our proposed system aims to address. Similar to the KFC system, it doesn't allow customers to select a table, it exclusively accepts online payments (which requires owning a smartphone), and it doesn't offer the ability to summon a waiter for assistance. In contrast, our proposed system is designed to accommodate various payment methods, facilitate table selection, and enable direct communication with service staff, catering to a wider demographic of customers with diverse needs and preferences.
+
+In conclusion, our Wait Management System aspires to combine the best features of existing systems while innovating beyond their limitations. Through our system, we seek to redefine the dining experience for customers, while providing restaurants with a comprehensive tool to streamline their operations and deliver exceptional service.
+
+
+**Date:** June 5, 2023
+
+**Today's Achievements:**
+
+- Did a meeting. Teammates seemed pleased at my introduction
+- Progress was made
+
+**Next Steps:**
+
+- I need to do the objectives while my teammates work on the storyboards, diagrams and researching what tech to use
+
+**Date:** June 12, 2023
+
+**Today's Achievements:**
+
+- Missed a few entries. Objectives was done from last time, the team helped me out with that during a tute as it was a prerequisite for some other things
+
+**Next Steps:**
+
+- Maybe help a little on the storyboard later if I have time? Otherwise we seem on track to finish the proposal
+
+**Date:** June 17, 2023
+
+**Today's Achievements:**
+
+- yay proposal was submitted. I'm impressed at the amount of stuff my team did.
+
+**Next Steps:**
+
+- Schedule a meet after which we will start coding
+
+**Date:** June 21, 2023
+
+**Today's Achievements:**
+
+- Discussed what had to be done, in terms of backend, Tommy and masum seem to be on top of frontend so thats probably ok.
+- Was waiting around for a skeleton project from wonseok that I could just start building on. In hindsight I could've just made my own skeleton and merged it with his later but oh well
+- Made a diagram on all the classes and data we need for the backend
+
+**Next Steps:**
+
+- Start coding
+
+**Date:** June 25, 2023
+
+**Today's Achievements:**
+
+- Finished code that allows users to query the database for menu items
+
+**Next Steps:**
+
+- Wait for jovita to finish her view orders section so we can merge our bits and allow customers to search food items then add items to the order
+
+
+
+**Date:** June 26, 2023
+
+**Today's Achievements:**
+
+- Tommy requested some changes to the search to allow searching by category and by how many times something was ordered. This was completed within 2 hours of request as it was a quick modification of the original search
+
+
+**Next Steps:**
+
+- Combine my part with Tommy's part and get it working there in time for review
+
+
+
+**Date:** June 28, 2023
+
+**Today's Achievements:**
+
+- Participated in the progressive demo at tutoring.
+- Got useful feedback and insights for further improvement.
+
+**Next Steps:**
+
+- Work on the feedback given during the demo.
+- Prepare for the retroactive meeting to write our retroactive A report.
+
+**Date:** June 30, 2023
+
+**Today's Achievements:**
+
+- Had a retroactive meeting to write our retroactive A report.
+- Discussed about what went well and what needs improvement.
+
+**Next Steps:**
+
+- Incorporate the improvements discussed in the meeting in our project.
+- Merge branches and distribute the workload for the upcoming week.
+
+**Date:** July 2, 2023
+
+**Today's Achievements:**
+
+- Started exploring the development of a chatbot.
+- Looking into Python and Langchain as potential tools for this project.
+
+**Next Steps:**
+
+- Continue research and development on the chatbot.
+- Identify potential issues or challenges in the development process.
+
+**Date:** July 4, 2023
+
+**Today's Achievements:**
+
+- Had a short online meeting.
+- Merged our branches to the main branch and distributed workload on Jira.
+
+**Next Steps:**
+
+- Start working on the assigned tasks.
+- Plan a short meeting to update each other's progress.
+
+**Date:** July 10, 2023
+
+**Today's Achievements:**
+
+- Had a short online meeting to update each other's progress.
+- Discussed about the current status and further steps.
+
+**Next Steps:**
+
+- Continue working on the assigned tasks.
+- Prepare for the next progressive demo.
+
+**Date:** July 12, 2023
+
+**Today's Achievements:**
+
+- Realized the development of a chatbot with Python and Langchain might not be feasible.
+- Decided to pivot to using third-party tools to get the chatbot working.
+
+**Next Steps:**
+
+- Explore various third-party tools for chatbot development.
+- Select the most appropriate tool and start working on the chatbot.
+
+**Date:** July 17, 2023
+
+**Today's Achievements:**
+
+- Made significant progress on the chatbot project.
+- The chatbot is now functioning well with the third-party tool.
+
+**Next Steps:**
+
+- Test the chatbot thoroughly and make necessary adjustments.
+- Begin exploring methods of sending emails, particularly Nodemailer.
+
+**Date:** July 18, 2023
+
+**Today's Achievements:**
+
+- Held an online meeting to update each other's work.
+- Discussed the challenges faced and potential solutions.
+
+**Next Steps:**
+
+- Implement the solutions discussed in the meeting.
+- Prepare for Progressive Demo B.
+
+**Date:** July 19, 2023
+
+**Today's Achievements:**
+
+- Had Progressive Demo B.
+- Received constructive feedback for further improvements.
+- Explored different methods for sending emails.
+- Nodemailer seems to be a promising tool for this task.
+
+**Next Steps:**
+
+- Work on the feedback and make necessary changes.
+- Plan a group meeting for merging everyone's work into the main branch.
+- Dive deeper into how Nodemailer works and how it can be integrated with our system.
+- Continue to monitor and improve the chatbot as necessary.
+
+**Date:** July 22, 2023
+
+**Today's Achievements:**
+
+- Realized I already had a Zapier account that could automate email sending.
+- Switched from exploring Nodemailer to using Zapier, which turned out to be a successful pivot.
+
+**Next Steps:**
+
+- Test the Zapier email automation thoroughly.
+- Continue improving the chatbot.
+
+**Date:** July 30, 2023
+
+**Today's Achievements:**
+
+- Had a group meeting and merged everyone's work into the main branch.
+- Discussed about the successful merging with minimal merge conflicts.
+
+**Next Steps:**
+
+- Start finalizing the project.
+- Plan an online meeting to prepare for the final demonstration.
+
+**Date:** July 31, 2023
+
+**Today's Achievements:**
+
+- Spent the day improving the chatbot's aesthetics.
+- The chatbot now not only functions well but also looks pretty.
+
+**Next Steps:**
+
+- Perform final tests on the chatbot and email automation system.
+- Prepare for the upcoming review.
+
+**Date:** August 1, 2023
+
+**Today's Achievements:**
+
+- Had an online meeting to create dot points for what to say in our final demonstration.
+- Discussed and finalized our presentation for the final demonstration.
+
+**Next Steps:**
+
+- Finalize the project and resolve any last minute issues.
+- Prepare for the final demonstration of our project.
+
+**Date:** August 2, 2023
+
+**Today's Achievements:**
+
+- Met everyone an hour before the tutorial session to prepare for the final demonstration.
+- Successfully demonstrated our project.
+
+**Next Steps:**
+
+- Await feedback and evaluations from the demonstration.
+- Celebrate the completion of our project!

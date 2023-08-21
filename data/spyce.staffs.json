@@ -1,0 +1,56 @@
+[
+  {
+    "_id": {
+      "$oid": "64c90e29a74cd256e4bdf212"
+    },
+    "first_name": "Gordon",
+    "last_name": "Freeman",
+    "email": "freeman@yopmail.com",
+    "password": "$2b$10$Mr0txsoAgSkpJnIpK0/sQeQuJey1g.rTuKQMsDYws5X9JCDZHxdkK",
+    "employee_type": "waiter",
+    "contact": "0123 456 789",
+    "createdAt": {
+      "$date": "2023-08-01T13:52:41.418Z"
+    },
+    "updatedAt": {
+      "$date": "2023-08-01T13:53:10.996Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c90ea2a74cd256e4bdf239"
+    },
+    "first_name": "Someone",
+    "last_name": "Important",
+    "email": "someone@yopmail.com",
+    "password": "$2b$10$KW5At9A9eIdTnlemr9YbVuNqTdkMxROccAbHt0xijGL4kUqNhcgga",
+    "employee_type": "kitchen-staff",
+    "contact": "0123 456 789",
+    "createdAt": {
+      "$date": "2023-08-01T13:54:42.635Z"
+    },
+    "updatedAt": {
+      "$date": "2023-08-01T13:55:57.277Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64cb5b67d11a6e17f0a67aae"
+    },
+    "first_name": "Steve",
+    "last_name": "Craft",
+    "email": "steve@yopmail.com",
+    "password": "$2b$10$cbi/vQtu6ZAM3glFrN4oEu7PCHJA8l1mXMH3nMBhcz/5gDWij3Gci",
+    "employee_type": "manager",
+    "contact": "0123 456 789",
+    "createdAt": {
+      "$date": "2023-08-03T07:46:47.814Z"
+    },
+    "updatedAt": {
+      "$date": "2023-08-03T07:47:13.827Z"
+    },
+    "__v": 0
+  }
+]
